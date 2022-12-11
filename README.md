@@ -5,5 +5,5 @@
 First step you print in Telegram city name;
 And, fabulous, you get weather list for this city. 
 
-**For Developer:**
+__**For Developer:**__
 Just clone it on PC, create a TG bot by Bot Father get you private key and use this bot.

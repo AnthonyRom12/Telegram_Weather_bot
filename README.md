@@ -1,6 +1,6 @@
 # Telegram_Weather_bot
 
-**For Useres**
+**For Useres:**
 
 
 **Telegram bot give you an opportunity to get weather list from any city around the world.**
